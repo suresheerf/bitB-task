@@ -46,3 +46,7 @@ npm run dev
 ```
 /user?id=618a5dcb73af0b45dda79756
 ```
+
+# published postman collection
+
+[ https://documenter.getpostman.com/view/16750472/UVC5EnQ3 ]
